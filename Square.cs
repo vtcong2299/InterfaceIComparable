@@ -1,6 +1,6 @@
 using System;
 
-namespace InterfaceIComparable
+namespace InterfaceIComparableCircle
 {
     public class Square : Rectangle
     {

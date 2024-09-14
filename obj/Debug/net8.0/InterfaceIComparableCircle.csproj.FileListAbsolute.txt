@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparableCircle\obj\Debug\net8.0\InterfaceIComparableCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparableCircle\obj\Debug\net8.0\InterfaceIComparableCircle.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparableCircle\obj\Debug\net8.0\InterfaceIComparableCircle.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparableCircle\obj\Debug\net8.0\InterfaceIComparableCircle.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparableCircle\obj\Debug\net8.0\InterfaceIComparableCircle.sourcelink.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparableCircle\bin\Debug\net8.0\InterfaceIComparableCircle.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparableCircle\bin\Debug\net8.0\InterfaceIComparableCircle.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparableCircle\bin\Debug\net8.0\InterfaceIComparableCircle.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparableCircle\bin\Debug\net8.0\InterfaceIComparableCircle.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparableCircle\bin\Debug\net8.0\InterfaceIComparableCircle.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparableCircle\obj\Debug\net8.0\InterfaceIComparableCircle.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparableCircle\obj\Debug\net8.0\refint\InterfaceIComparableCircle.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparableCircle\obj\Debug\net8.0\InterfaceIComparableCircle.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparableCircle\obj\Debug\net8.0\InterfaceIComparableCircle.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparableCircle\obj\Debug\net8.0\ref\InterfaceIComparableCircle.dll

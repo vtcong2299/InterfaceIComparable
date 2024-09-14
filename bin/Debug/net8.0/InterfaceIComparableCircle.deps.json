@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "InterfaceIComparable/1.0.0": {
+      "InterfaceIComparableCircle/1.0.0": {
         "runtime": {
-          "InterfaceIComparable.dll": {}
+          "InterfaceIComparableCircle.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "InterfaceIComparable/1.0.0": {
+    "InterfaceIComparableCircle/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

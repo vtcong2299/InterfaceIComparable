@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\HocLapTrinh\\LapTrinhGameUnity\\CongTapCode\\C#\\BaiTapCodeGym\\InterfaceIComparable\\InterfaceIComparable.csproj",
-      "projectName": "InterfaceIComparable",
-      "projectPath": "C:\\Users\\admin\\Documents\\HocLapTrinh\\LapTrinhGameUnity\\CongTapCode\\C#\\BaiTapCodeGym\\InterfaceIComparable\\InterfaceIComparable.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Documents\\HocLapTrinh\\LapTrinhGameUnity\\CongTapCode\\C#\\BaiTapCodeGym\\InterfaceIComparableCircle\\InterfaceIComparableCircle.csproj",
+      "projectName": "InterfaceIComparableCircle",
+      "projectPath": "C:\\Users\\admin\\Documents\\HocLapTrinh\\LapTrinhGameUnity\\CongTapCode\\C#\\BaiTapCodeGym\\InterfaceIComparableCircle\\InterfaceIComparableCircle.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\HocLapTrinh\\LapTrinhGameUnity\\CongTapCode\\C#\\BaiTapCodeGym\\InterfaceIComparable\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Documents\\HocLapTrinh\\LapTrinhGameUnity\\CongTapCode\\C#\\BaiTapCodeGym\\InterfaceIComparableCircle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

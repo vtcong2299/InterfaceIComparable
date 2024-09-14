@@ -1,15 +1,15 @@
 using System;
 
-namespace InterfaceIComparable
+namespace InterfaceIComparableCircle
 {
     public class Circle:Shape
     {
         private double radius = 1.0;
-        protected double GetRadius()
+        public double GetRadius()
         { 
             return radius;
         }
-        protected void SetRadius(double radius)
+        public void SetRadius(double radius)
         {
             this.radius=radius;
         }
@@ -22,11 +22,11 @@ namespace InterfaceIComparable
         {
             this.radius = radius;
         }
-        private double GetArea ()
+        public double GetArea ()
         {
             return radius*radius*3.14;
         }
-        private double GetPerimeter ()
+        public double GetPerimeter ()
         {
             return 2*radius*3.14;
         }

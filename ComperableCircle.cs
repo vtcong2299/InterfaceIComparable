@@ -1,20 +1,17 @@
 using System;
+using System.Collections.Generic;
 
-namespace InterfaceIComparable
+namespace InterfaceIComparableCircle
 {
-    class ComperableCircle : Circle, IComparable<ComperableCircle>
+    public class CircleComparator : IComparer<Circle>
     {
-        public ComperableCircle() { }
-        public ComperableCircle(double radius) : base(radius) { }
-        public ComperableCircle(double radius, string color, bool filled) : base(radius, color, filled) { }
-
-        public int CompareTo(ComperableCircle o)
+        public int Compare(Circle c1, Circle c2)
         {
-            if (GetRadius() > o.GetRadius())
+            if (c1.GetRadius() > c2.GetRadius())
             {
                 return 1;
             }
-            else if (GetRadius() < o.GetRadius())
+            else if (c1.GetRadius() < c2.GetRadius())
             {
                 return -1;
             }

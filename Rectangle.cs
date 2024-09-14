@@ -1,7 +1,7 @@
 using System;
 using System.Diagnostics;
 
-namespace InterfaceIComparable
+namespace InterfaceIComparableCircle
 {
     public class Rectangle:Shape
     {
