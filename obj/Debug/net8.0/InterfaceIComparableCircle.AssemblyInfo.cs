@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterfaceIComparableCircle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35b1eaa056ddb94a1bda0ac8071fb9ecfbc98082")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d0a3c883983f6877d6ec103b1d2ff776d10fc23")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterfaceIComparableCircle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterfaceIComparableCircle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
