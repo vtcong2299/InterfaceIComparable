@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparable\bin\Debug\net8.0\InterfaceIComparable.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparable\bin\Debug\net8.0\InterfaceIComparable.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparable\bin\Debug\net8.0\InterfaceIComparable.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparable\bin\Debug\net8.0\InterfaceIComparable.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparable\bin\Debug\net8.0\InterfaceIComparable.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparable\obj\Debug\net8.0\InterfaceIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparable\obj\Debug\net8.0\InterfaceIComparable.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparable\obj\Debug\net8.0\InterfaceIComparable.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparable\obj\Debug\net8.0\InterfaceIComparable.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparable\obj\Debug\net8.0\InterfaceIComparable.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparable\obj\Debug\net8.0\refint\InterfaceIComparable.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparable\obj\Debug\net8.0\InterfaceIComparable.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparable\obj\Debug\net8.0\InterfaceIComparable.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\InterfaceIComparable\obj\Debug\net8.0\ref\InterfaceIComparable.dll
